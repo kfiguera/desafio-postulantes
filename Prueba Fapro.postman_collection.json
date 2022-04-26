@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "36673cd6-78d8-4562-b6de-c87f37fbb4d7",
+		"name": "Prueba Fapro",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Test",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
